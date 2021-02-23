@@ -27,7 +27,7 @@ SECRET_KEY = 'vc($!^8z^$1&n@(q(dgp)q2g+qs2*nap9-804r_tj5(4h#qrhd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kairatblog.pythonanywhere.com', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['kairatblog.pythonanywhere.com', 'pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
